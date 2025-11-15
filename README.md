@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Nikhil, a Computer science graduate currently working as Analytics Engineer at Amazon. 
 <!--
 **kalmanoornikhil/kalmanoornikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
